@@ -16,8 +16,6 @@
 
 <span>[<kbd> <br> LeetCode <br> </kbd>](https://leetcode.com/u/sairaghava1318/)</span>
 <span>[<kbd> <br> Github Stats <br> </kbd>](#Github-Stats)</span>
-<span>[<kbd> <br> Virtual Experience <br> </kbd>](#virtual-experience)</span>
-
 <span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages-tools-and-technologies-)</span>
 <span>[<kbd> <br> Quotes I Like <br> </kbd>](#%EF%B8%8F-dev-quote)</span>
 
@@ -68,10 +66,6 @@
 </table>
 
 ## Github Stats
-
-
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sairaghava1318)](https://git.io/streak-stats)
-
-## Virtual Experience
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
