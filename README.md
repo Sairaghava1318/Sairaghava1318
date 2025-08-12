@@ -48,7 +48,10 @@
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,node,express" ></td>
+	<td>
+  <img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nodejs,express">
+</td>
+
 </tr>
 <tr>
 	<td><strong>Design & UI</strong></td>
